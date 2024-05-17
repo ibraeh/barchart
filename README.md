@@ -14,3 +14,4 @@
 4. View the Project:
 * Live Website (if applicable): Provide the live URL where users can interact with your charts.
 
+![bar chart](https://github.com/ibraeh/barchart/assets/29314702/0f5e296f-5768-4640-8f5e-b222bc5b7fdc)
