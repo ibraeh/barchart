@@ -1,7 +1,7 @@
 
 1. Title & Introduction:
-  * Title:  [United States GDP]()
-  * Introduction: A bar chart showing the quarterly distribution of the Gross Domestic Product (GDP) of the United States from 1947 to 2015. 
+  - Title:  [United States GDP]()
+  - Introduction: A bar chart showing the quarterly distribution of the Gross Domestic Product (GDP) of the United States from 1947 to 2015. 
 
 2. Project Description:
   * Functionality: A bar chart built with d3.js with tooltip functionality. 
